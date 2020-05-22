@@ -1,4 +1,4 @@
-# pyda-10-hw-2
+## pyda-10-hw-2
 ### структура репозитория
-***HW2python_basics*** - файл с ДЗ
-***Python-basics*** - файл с примерами лекции
+* ***HW2python_basics*** - файл с ДЗ
+* ***Python-basics*** - файл с примерами лекции
